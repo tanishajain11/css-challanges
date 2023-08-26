@@ -1,0 +1,27 @@
+  * {
+    margin: 0;
+    position: absolute;
+  }
+  body {
+    background: #926927;
+  }
+  .triangle {
+    top: 9px;
+    left: 87px;
+    width: 0px;
+    height: 0px;
+    background: #926927;
+    border-left: 91px solid #926927;
+    border-bottom: 134px solid #F8B140;
+    margin: 2rem;
+  }
+  .triangle2 {
+    top: 93px;
+    left: 157px;
+    width: 0px;
+    height: 0px;
+    background: #926927;
+    border-right: 91px solid #926927;
+    border-top: 134px solid #F8B140;
+    margin: 2rem;
+  }
